@@ -5,7 +5,7 @@ p{
 }
 
 .main-bg{
-    background: url('img/snow.jpg') no-repeat center/cover;
+    background: url('snow.jpg') no-repeat center/cover;
     width: 100vw;
     height: 1000px;
     background-size: cover;
